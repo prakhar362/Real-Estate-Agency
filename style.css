@@ -34,7 +34,7 @@ html, body {
 #page1 {
     height: 100vh;
     width: 100vw;
-    background-color: red;
+    background-color: #0b48ed;
     position: relative;
 }
 
